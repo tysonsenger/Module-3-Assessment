@@ -1,0 +1,105 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "cbaae7c7-1d8b-4a29-b193-c455fa170667",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#My Jupyter Notebook on IBM Watson Studio"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "c83e3683-63fa-451e-ab8e-9250168069ab",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "######**Tyson Senger**\n",
+    "######Data Analyst"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "81c0ac51-cf6c-4a5a-a37e-18e2613e24da",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "######I am interested in data science because I get to work from home"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "ee5e98b7-f090-4af6-a807-f16c1f782c2d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "###The code in cell 5 will the result of the multiplaction of the integers 3 and 5"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "899daefd-5883-45b7-9c7f-a82425dd916c",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "15\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(3*5)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "id": "ae901d70-360d-4f7a-9364-ef08859fa036",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Python syntax highlighting\n"
+     ]
+    }
+   ],
+   "source": [
+    "\n",
+    "#~~Scratch This~~\n",
+    "s = \"Python syntax highlighting\"\n",
+    "print(s)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
